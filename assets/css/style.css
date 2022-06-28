@@ -554,6 +554,11 @@ section{
         margin-right: auto ;
     }
 
+    /* ===== Home ======== */
+    .home__title{
+        font-size: 4rem;
+    }
+
     /* ===== Benefit ====== */
 
     .benefit__data{
